@@ -1,2 +1,5 @@
 esto es una prueba de git
 haber si funciona ahora
+despues de configura 
+git config --global user.name "javier acosta"
+git config --global user.email "jacosm_29@hotmail.com"
