@@ -4,5 +4,5 @@ haber si funciona ahora
 despues de configura 
 git config --global user.name "javier acosta"
 git config --global user.email "jacosm_29@hotmail.com"
-master1
+Master 1
 Master 2
